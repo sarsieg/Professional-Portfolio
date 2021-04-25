@@ -51,6 +51,8 @@ div {
     
 }
 
+/* deleted flex direction and background color to change the location of text and fix the visuals in css  */
+/* added overflow and changed list-style-type to none */
 ul {
     list-style-type: none;
     margin: 0;
