@@ -166,6 +166,11 @@ li a:hover {
     width: 100%;
     height: 380px;
     margin-bottom: -2%;
+    opacity: 1;
+}
+
+#workp img:hover{
+    opacity: .5;
 }
 
 #work2p a {
