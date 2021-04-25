@@ -163,12 +163,18 @@ li a:hover {
 }
 
 
-
 #workp a img {
     width: 100%;
     height: 380px;
     margin-bottom: -2%;
     opacity: 1;
+}
+
+#work2p a img {
+    
+    width: 100%;
+    height: 380px;
+    margin-bottom: -2%;
 }
 
 #workp img:hover{
@@ -217,12 +223,6 @@ li a:hover {
     
 }
 
-#work2p a img {
-    
-    width: 100%;
-    height: 380px;
-    margin-bottom: -2%;
-}
 
 #work2pp,
 #work2p {
