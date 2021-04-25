@@ -120,7 +120,16 @@ ul li {
     width: 70%;
     
 }
+#resumep img{
+    width: 100%;
+    margin-bottom: -.75%;
+    align-items: center;
+}
 
+#resumep a {
+    margin: 0;
+    padding: 0;
+}
 #workp {
    
     color: rgb(255, 255, 255);
