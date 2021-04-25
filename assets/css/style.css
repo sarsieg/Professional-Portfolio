@@ -108,7 +108,6 @@ li a:hover {
     font-size: 23px;
     color: rgb(96, 124, 165);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /* display: flex; */
     align-items: center;
     justify-content: space-evenly;
     margin-right: 5%;
@@ -121,7 +120,6 @@ li a:hover {
     font-size: 30px;
     color: rgb(96, 124, 165);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /* display: flex; */
     border: 10px solid rgb(115, 224, 228);
     align-items: center;
     justify-content: space-evenly;
@@ -131,11 +129,7 @@ li a:hover {
 }
 
 #workp {
-   
     color: rgb(255, 255, 255);
-    /* justify-content: flex-start;
-    align-items: flex-end; */
-    
     
 }
 
