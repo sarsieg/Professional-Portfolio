@@ -175,6 +175,7 @@ li a:hover {
 
 }
 
+/* condensed two tags with alike properties */
 #workp a img,
 #work2p a img {
     width: 100%;
