@@ -61,6 +61,7 @@ ul {
 
 }
 
+/* changed text decoration thickness in header area (ul li) to make a thicker underline beneath the different sections */
 ul li {
     text-decoration-line: underline;
     text-decoration-thickness: 5px;
