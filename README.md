@@ -7,6 +7,8 @@ When being faced with copying the image of a website and being told to mimic it 
 
 ## Installation
 
+Listed within Visual Studio Code
+
 <!-- installed html -->
 <!-- installed css -->
 <!-- installed readme -->
