@@ -53,4 +53,4 @@ SOFTWARE.
 
 ![Image](/screenshot.png)
 
-![Screenshot](/assets\images\screenshot.png)
+![Screenshot](\assets\images\screenshot.png)
