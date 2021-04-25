@@ -7,7 +7,7 @@ When being faced with copying the image of a website and being told to mimic it 
 
 ## Installation
 
-Listed within Visual Studio Code
+Listed within Visual Studio Codekg
 
 <!-- installed html -->
 <!-- installed css -->
@@ -26,6 +26,14 @@ Listed within Visual Studio Code
 <!-- added comments -->
 <!-- added license -->
 <!-- added link to deployed application -->
+
+[Link-Name](https://sarsieg.github.io/Professional-Portfolio/)
+
+![Screenshot](/assets/images/screenshot.png/)
+
+![Screenshot](/assets/images/screenshot2.png/)
+
+![Screenshot](/assets/images/screenshot3.png/)
 
 ## License:
 MIT License
@@ -51,10 +59,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-[Link-Name](https://sarsieg.github.io/Professional-Portfolio/)
-
-![Screenshot](/assets/images/screenshot.png/)
-
-![Screenshot](/assets/images/screenshot2.png/)
-
-![Screenshot](/assets/images/screenshot3.png/)
