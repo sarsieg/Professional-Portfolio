@@ -124,6 +124,15 @@ li a:hover {
 
 }
 
+#workp {
+   
+    color: rgb(255, 255, 255);
+    /* justify-content: flex-start;
+    align-items: flex-end; */
+    
+    
+}
+
 #resumep img{
     display: flex;
     width: 100%;
@@ -133,14 +142,7 @@ li a:hover {
 }
 
 
-#workp {
-   
-    color: rgb(255, 255, 255);
-    /* justify-content: flex-start;
-    align-items: flex-end; */
-    
-    
-}
+
 
 #aboutmeside,
 #resumeside, 
