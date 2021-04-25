@@ -16,7 +16,7 @@ header {
     color: rgb(115, 224, 228);
 }
 
-/* deleted text decoration, flex direction, border, and overflow as they weren't needed/didn't benefit the look */
+/* deleted text decoration, flex direction, border, and overflow properties as they weren't needed/didn't benefit the look */
 /* fixed margins and padding px for text to fit the area better */
 h1 {
     margin: -5px -20px ;
@@ -26,6 +26,8 @@ h1 {
     padding: 10px 22px;
 }  
 
+/* deleted background size and background position properties since they weren't neccessary*/
+/* added background image and fixed positioning with height, width and margin-bottom */
 .top {
     height: 190px;
     width: 100%;
