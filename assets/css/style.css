@@ -84,7 +84,7 @@ li a {
   
 
 li a:hover {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 
 }
 
@@ -115,6 +115,7 @@ li a:hover {
 
 }
 
+/* condensed alike tags and properties to make css cleaner */
 #resumep,
 #workp {
     font-size: 30px;
@@ -133,6 +134,7 @@ li a:hover {
     
 }
 
+/* condensed alike tags and properties to make css cleaner */
 #work2pp,
 #work2p {
     margin: 0;
@@ -147,7 +149,7 @@ li a:hover {
     
 }
 
-
+/* condensed alike tags and properties to make css cleaner */
 #aboutmeside,
 #resumeside, 
 #workside,
@@ -166,6 +168,7 @@ li a:hover {
     min-width: 200px;
 }
 
+/* placed an image within this section */
 #resumep img{
     display: flex;
     width: 100%;
@@ -174,6 +177,7 @@ li a:hover {
 
 }
 
+/* placed an image within this section */
 /* condensed two tags with alike properties */
 #workp a img,
 #work2p a img {
@@ -183,6 +187,7 @@ li a:hover {
     opacity: 1;
 }
 
+/* placed an image within this section */
 
 #aboutmep img {
     width: 100%;
@@ -191,11 +196,13 @@ li a:hover {
 
 }
 
+/* added hover tag for opacity to changed when mouse goes over image */
 #workp img:hover {
     opacity: .5;
 
 }
 
+/* added hover tag for opacity to changed when mouse goes over image */
 #work2p img:hover {
     opacity: .5;
 
@@ -215,6 +222,8 @@ li a:hover {
     background-color: rgb(115, 224, 228);
 }
 
+/* put text over photo&link to help show the names of each project they will be deployed to if they click that picture */
+/* added css properties to that text to improve look and layout of the text */
 #troublemaker {
     display: inline;
     position: absolute;
@@ -224,6 +233,8 @@ li a:hover {
     background-color: rgb(115, 224, 228);
 }
 
+/* put text over photo&link to help show the names of each project they will be deployed to if they click that picture */
+/* added css properties to that text to improve look and layout of the text */
 #troublemakerTwo {
     display: inline;
     position: absolute;
@@ -233,6 +244,8 @@ li a:hover {
     background-color: rgb(115, 224, 228);
 }
 
+/* put text over photo&link to help show the names of each project they will be deployed to if they click that picture */
+/* added css properties to that text to improve look and layout of the text */
 #troublemakerThree {
     display: inline;
     position: absolute;
@@ -242,10 +255,6 @@ li a:hover {
     background-color: rgb(115, 224, 228);
     
 }
-
-
-
-
 
 
 #contactmep,
@@ -263,6 +272,7 @@ li a:hover {
     height: 125px;
 }
 
+/* added media queries  */
 @media only screen and (max-width: 955px){
     .contactmelinks {
         display: none;
